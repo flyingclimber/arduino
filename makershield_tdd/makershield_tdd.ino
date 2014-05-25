@@ -1,8 +1,8 @@
 
 int POT = 1;
-int LED1 = 2;
-int LED2 = 3;
-int BUTTON = 4;
+int LED1 = 6;
+int LED2 = 7;
+int BUTTON = 0;
 
 int rate=100;
 
